@@ -1,0 +1,4 @@
+https://github.com/handcraftsman/GeneticAlgorithmsWithPython/tree/master/es/ch16
+https://github.com/JCarlosR/Algoritmo-Genetico-Python/blob/master/first_program.py
+https://robologs.net/2015/09/01/como-programar-un-algoritmo-genetico-parte-ii-implementacion-en-python/
+http://www.pythonexample.com/code/implementacion-de-algoritmos-geneticos/
