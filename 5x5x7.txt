@@ -1,0 +1,3084 @@
+Lista de casillas destapadas:
+
+['y01', 'y03', 'y04', 'y20', 'y21']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.3170731707317073
+x: x02 -> Probabilidad de no ser mina: 0.4814814814814815
+x: x10 -> Probabilidad de no ser mina: 0.3414634146341463
+x: x11 -> Probabilidad de no ser mina: 0.34146341463414626
+x: x12 -> Probabilidad de no ser mina: 0.5185185185185186
+x: x13 -> Probabilidad de no ser mina: 0.5
+x: x14 -> Probabilidad de no ser mina: 0.5
+x: x22 -> Probabilidad de no ser mina: 0.7407407407407408
+x: x23 -> Probabilidad de no ser mina: 0.65
+x: x30 -> Probabilidad de no ser mina: 0.6585365853658537
+x: x31 -> Probabilidad de no ser mina: 0.6585365853658538
+x: x32 -> Probabilidad de no ser mina: 0.7407407407407408
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x22']
+['x22']
+
+Tiempo de paso: 4.0 segundos
+Destapando casilla: ['x22']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+? 3 ? 2 1 
+? ? ? ? ? 
+2 3 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 7.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+M 1 0 1 1 
+1 2 1 2 M 
+2 4 M 4 2 
+M M M 3 M 
+2 3 2 2 1 
+
+
+Tablero oculto
+? 1 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x02', 'x03', 'x10', 'x11', 'x12']
+Lista de casillas destapadas:
+
+['y01']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.7999999999999999
+x: x02 -> Probabilidad de no ser mina: 0.7999999999999999
+x: x03 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.7999999999999999
+x: x11 -> Probabilidad de no ser mina: 0.7999999999999999
+x: x12 -> Probabilidad de no ser mina: 0.7999999999999999
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x00']
+['x00']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x00']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+? 1 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 0.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+M 2 2 M 2 
+2 M 2 2 M 
+1 1 1 2 2 
+0 0 1 3 M 
+0 0 1 M M 
+
+
+Tablero oculto
+? 2 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x02', 'x03', 'x10', 'x11', 'x12']
+Lista de casillas destapadas:
+
+['y01']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.6
+x: x02 -> Probabilidad de no ser mina: 0.6
+x: x03 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6
+x: x11 -> Probabilidad de no ser mina: 0.6
+x: x12 -> Probabilidad de no ser mina: 0.6
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x03']
+['x03']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x03']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+? 2 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 0.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+1 M 3 M 2 
+1 2 M 4 M 
+1 2 3 M 3 
+M 1 2 M 2 
+1 1 1 1 1 
+
+
+Tablero oculto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x02', 'x10', 'x11']
+Lista de casillas destapadas:
+
+['y00']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x02 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x11 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x02']
+Nuevo tablero oculto
+1 ? 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x10', 'x11', 'x12', 'x13']
+Lista de casillas destapadas:
+
+['y00', 'y02']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5339805825242718
+x: x03 -> Probabilidad de no ser mina: 0.31067961165048547
+x: x04 -> Probabilidad de no ser mina: 0.6956521739130435
+x: x10 -> Probabilidad de no ser mina: 0.9320388349514562
+x: x11 -> Probabilidad de no ser mina: 0.5339805825242718
+x: x12 -> Probabilidad de no ser mina: 0.31067961165048547
+x: x13 -> Probabilidad de no ser mina: 0.31067961165048547
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x10']
+['x10']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x10']
+Nuevo tablero oculto
+1 ? 3 ? ? 
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 3 ? ? 
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x11', 'x12', 'x13', 'x20', 'x21']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y10']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5
+x: x03 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x04 -> Probabilidad de no ser mina: 0.6818181818181819
+x: x11 -> Probabilidad de no ser mina: 0.5
+x: x12 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x13 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x20 -> Probabilidad de no ser mina: 1.0
+x: x21 -> Probabilidad de no ser mina: 1.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x20', 'x21']
+['x20', 'x21']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x20', 'x21']
+Nuevo tablero oculto
+1 ? 3 ? ? 
+1 ? ? ? ? 
+1 2 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 3 ? ? 
+1 ? ? ? ? 
+1 2 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x11', 'x12', 'x13', 'x22', 'x30', 'x31', 'x32']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y10', 'y20', 'y21']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.48148148148148145
+x: x03 -> Probabilidad de no ser mina: 0.325
+x: x04 -> Probabilidad de no ser mina: 0.65
+x: x11 -> Probabilidad de no ser mina: 0.5185185185185185
+x: x12 -> Probabilidad de no ser mina: 0.3499999999999999
+x: x13 -> Probabilidad de no ser mina: 0.325
+x: x22 -> Probabilidad de no ser mina: 0.825
+x: x30 -> Probabilidad de no ser mina: 0.7407407407407408
+x: x31 -> Probabilidad de no ser mina: 0.7407407407407408
+x: x32 -> Probabilidad de no ser mina: 0.825
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x22']
+['x22']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x22']
+Nuevo tablero oculto
+1 ? 3 ? ? 
+1 ? ? ? ? 
+1 2 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 3 ? ? 
+1 ? ? ? ? 
+1 2 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x11', 'x12', 'x13', 'x23', 'x30', 'x31', 'x32', 'x33']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y10', 'y20', 'y21', 'y22']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.4884366327474561
+x: x03 -> Probabilidad de no ser mina: 0.40209682392846124
+x: x04 -> Probabilidad de no ser mina: 0.631578947368421
+x: x11 -> Probabilidad de no ser mina: 0.511563367252544
+x: x12 -> Probabilidad de no ser mina: 0.2345564806249358
+x: x13 -> Probabilidad de no ser mina: 0.36334669544660286
+x: x23 -> Probabilidad de no ser mina: 0.705005653201768
+x: x30 -> Probabilidad de no ser mina: 0.7733580018501388
+x: x31 -> Probabilidad de no ser mina: 0.7150786308973173
+x: x32 -> Probabilidad de no ser mina: 0.7654435193750643
+x: x33 -> Probabilidad de no ser mina: 0.705005653201768
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x30']
+['x30']
+
+Tiempo de paso: 3.0 segundos
+Destapando casilla: ['x30']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+1 ? 3 ? ? 
+1 ? ? ? ? 
+1 2 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 6.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+1 M M M 1 
+2 3 3 2 1 
+M 1 1 1 1 
+2 3 2 M 1 
+M 2 M 2 1 
+
+
+Tablero oculto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x02', 'x10', 'x11']
+Lista de casillas destapadas:
+
+['y00']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x02 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x11 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x02']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 0.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+1 3 M 2 0 
+2 M M 4 2 
+M 3 3 M M 
+2 2 2 2 2 
+1 M 1 0 0 
+
+
+Tablero oculto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x02', 'x10', 'x11']
+Lista de casillas destapadas:
+
+['y00']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x02 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x11 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x02']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 0.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+M 2 1 0 0 
+2 M 2 2 2 
+2 2 3 M M 
+2 M 3 3 3 
+M 2 2 M 1 
+
+
+Tablero oculto
+? 2 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x02', 'x03', 'x10', 'x11', 'x12']
+Lista de casillas destapadas:
+
+['y01']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.6
+x: x02 -> Probabilidad de no ser mina: 0.6
+x: x03 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6
+x: x11 -> Probabilidad de no ser mina: 0.6
+x: x12 -> Probabilidad de no ser mina: 0.6
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x03']
+['x03']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x03']
+Nuevo tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x10', 'x11', 'x20', 'x21', 'x22', 'x23', 'x24']
+Lista de casillas destapadas:
+
+['y01', 'y02', 'y12', 'y13', 'y14']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.5
+x: x10 -> Probabilidad de no ser mina: 0.5
+x: x11 -> Probabilidad de no ser mina: 0.0
+x: x20 -> Probabilidad de no ser mina: 0.6111111111111112
+x: x21 -> Probabilidad de no ser mina: 1.0
+x: x22 -> Probabilidad de no ser mina: 1.0
+x: x23 -> Probabilidad de no ser mina: 0.0
+x: x24 -> Probabilidad de no ser mina: 0.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x21', 'x22']
+['x21', 'x22']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x21', 'x22']
+Nuevo tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+? 2 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+? 2 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x10', 'x11', 'x20', 'x23', 'x24', 'x30', 'x31', 'x32', 'x33', 'x34']
+Lista de casillas destapadas:
+
+['y01', 'y21', 'y22']
+Lista de minas encontradas:
+
+['x11', 'x23', 'x24']
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.2727272727272727
+x: x10 -> Probabilidad de no ser mina: 0.7272727272727273
+x: x20 -> Probabilidad de no ser mina: 0.9090909090909091
+x: x30 -> Probabilidad de no ser mina: 0.9090909090909091
+x: x31 -> Probabilidad de no ser mina: 0.7272727272727273
+x: x32 -> Probabilidad de no ser mina: 0.7272727272727273
+x: x33 -> Probabilidad de no ser mina: 0.5454545454545454
+x: x34 -> Probabilidad de no ser mina: 0.75
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x20']
+['x20']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x20']
+Nuevo tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+2 2 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+2 2 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x10', 'x11', 'x23', 'x24', 'x30', 'x31', 'x32', 'x33', 'x34']
+Lista de casillas destapadas:
+
+['y01', 'y20', 'y21', 'y22']
+Lista de minas encontradas:
+
+['x11', 'x23', 'x24']
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.42307692307692313
+x: x10 -> Probabilidad de no ser mina: 0.5769230769230769
+x: x30 -> Probabilidad de no ser mina: 0.8461538461538463
+x: x31 -> Probabilidad de no ser mina: 0.576923076923077
+x: x32 -> Probabilidad de no ser mina: 1.0
+x: x33 -> Probabilidad de no ser mina: 0.42307692307692313
+x: x34 -> Probabilidad de no ser mina: 0.7333333333333334
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x32']
+['x32']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x32']
+Nuevo tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+2 2 3 ? ? 
+? ? 3 ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+2 2 3 ? ? 
+? ? 3 ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x10', 'x11', 'x23', 'x24', 'x30', 'x31', 'x33', 'x34', 'x41', 'x42', 'x43']
+Lista de casillas destapadas:
+
+['y01', 'y20', 'y21', 'y22', 'y32']
+Lista de minas encontradas:
+
+['x11', 'x23', 'x24']
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.4166666666666667
+x: x10 -> Probabilidad de no ser mina: 0.5833333333333333
+x: x30 -> Probabilidad de no ser mina: 0.8333333333333334
+x: x31 -> Probabilidad de no ser mina: 0.5833333333333334
+x: x33 -> Probabilidad de no ser mina: 0.4166666666666667
+x: x34 -> Probabilidad de no ser mina: 0.7142857142857143
+x: x41 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x42 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x43 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x30']
+['x30']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x30']
+Nuevo tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 1 0 0 
+? ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x10', 'x11', 'x23', 'x24', 'x31', 'x33', 'x34', 'x40', 'x41', 'x42', 'x43']
+Lista de casillas destapadas:
+
+['y01', 'y20', 'y21', 'y22', 'y30', 'y32']
+Lista de minas encontradas:
+
+['x11', 'x23', 'x24']
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.19047619047619047
+x: x10 -> Probabilidad de no ser mina: 0.8095238095238095
+x: x31 -> Probabilidad de no ser mina: 0.1904761904761905
+x: x33 -> Probabilidad de no ser mina: 0.8095238095238094
+x: x34 -> Probabilidad de no ser mina: 0.6923076923076923
+x: x40 -> Probabilidad de no ser mina: 0.42857142857142855
+x: x41 -> Probabilidad de no ser mina: 0.3809523809523809
+x: x42 -> Probabilidad de no ser mina: 0.8095238095238094
+x: x43 -> Probabilidad de no ser mina: 0.8095238095238094
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x10']
+['x10']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x10']
+Nuevo tablero oculto
+? 2 1 0 0 
+2 ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 1 0 0 
+2 ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x11', 'x23', 'x24', 'x31', 'x33', 'x34', 'x40', 'x41', 'x42', 'x43']
+Lista de casillas destapadas:
+
+['y01', 'y10', 'y20', 'y21', 'y22', 'y30', 'y32']
+Lista de minas encontradas:
+
+['x11', 'x23', 'x24']
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.0
+x: x31 -> Probabilidad de no ser mina: 0.0
+x: x33 -> Probabilidad de no ser mina: 1.0
+x: x34 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x40 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x41 -> Probabilidad de no ser mina: 0.5
+x: x42 -> Probabilidad de no ser mina: 0.75
+x: x43 -> Probabilidad de no ser mina: 0.75
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x33']
+['x33']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x33']
+Nuevo tablero oculto
+? 2 1 0 0 
+2 ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 3 ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 1 0 0 
+2 ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 3 ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x11', 'x23', 'x24', 'x31', 'x34', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y30', 'y32', 'y33']
+Lista de minas encontradas:
+
+['x11', 'x23', 'x24', 'x00', 'x31']
+Oculta con mayor probabilidad de no ser mina
+x: x34 -> Probabilidad de no ser mina: 0.75
+x: x40 -> Probabilidad de no ser mina: 0.5
+x: x41 -> Probabilidad de no ser mina: 0.5
+x: x42 -> Probabilidad de no ser mina: 0.75
+x: x43 -> Probabilidad de no ser mina: 0.75
+x: x44 -> Probabilidad de no ser mina: 0.75
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x34']
+['x34']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x34']
+Nuevo tablero oculto
+? 2 1 0 0 
+2 ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 3 3 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 1 0 0 
+2 ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 3 3 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x11', 'x23', 'x24', 'x31', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y30', 'y32', 'y33', 'y34']
+Lista de minas encontradas:
+
+['x11', 'x23', 'x24', 'x00', 'x31']
+Oculta con mayor probabilidad de no ser mina
+x: x40 -> Probabilidad de no ser mina: 0.5
+x: x41 -> Probabilidad de no ser mina: 0.5
+x: x42 -> Probabilidad de no ser mina: 1.0
+x: x43 -> Probabilidad de no ser mina: 0.5
+x: x44 -> Probabilidad de no ser mina: 0.5
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x42']
+['x42']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x42']
+Nuevo tablero oculto
+? 2 1 0 0 
+2 ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 3 3 
+? ? 2 ? ? 
+
+
+Tablero oculto
+? 2 1 0 0 
+2 ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 3 3 
+? ? 2 ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x11', 'x23', 'x24', 'x31', 'x40', 'x41', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y30', 'y32', 'y33', 'y34', 'y42']
+Lista de minas encontradas:
+
+['x11', 'x23', 'x24', 'x00', 'x31']
+Oculta con mayor probabilidad de no ser mina
+x: x40 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x41 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x43 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x44 -> Probabilidad de no ser mina: 0.49999999999999994
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x40']
+['x40']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x40']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+? 2 1 0 0 
+2 ? 2 2 2 
+2 2 3 ? ? 
+2 ? 3 3 3 
+? ? 2 ? ? 
+
+
+Has perdido!
+Terminado en 7.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+0 1 2 M M 
+2 3 M 4 3 
+M M 3 M 1 
+2 3 3 2 1 
+0 1 M 1 0 
+
+
+Tablero oculto
+0 1 ? ? ? 
+2 3 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x03', 'x12', 'x20', 'x21', 'x22']
+Lista de casillas destapadas:
+
+['y01', 'y10', 'y11']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x03 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x12 -> Probabilidad de no ser mina: 0.5
+x: x20 -> Probabilidad de no ser mina: 0.0
+x: x21 -> Probabilidad de no ser mina: 0.0
+x: x22 -> Probabilidad de no ser mina: 1.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x22']
+['x22']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x22']
+Nuevo tablero oculto
+0 1 ? ? ? 
+2 3 ? ? ? 
+? ? 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+0 1 ? ? ? 
+2 3 ? ? ? 
+? ? 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x03', 'x12', 'x13', 'x20', 'x21', 'x23', 'x31', 'x32', 'x33']
+Lista de casillas destapadas:
+
+['y01', 'y11', 'y22']
+Lista de minas encontradas:
+
+['x20', 'x21']
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.6
+x: x03 -> Probabilidad de no ser mina: 0.75
+x: x12 -> Probabilidad de no ser mina: 0.4
+x: x13 -> Probabilidad de no ser mina: 0.72
+x: x23 -> Probabilidad de no ser mina: 0.72
+x: x31 -> Probabilidad de no ser mina: 0.72
+x: x32 -> Probabilidad de no ser mina: 0.72
+x: x33 -> Probabilidad de no ser mina: 0.72
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x03']
+['x03']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x03']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+0 1 ? ? ? 
+2 3 ? ? ? 
+? ? 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 2.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+2 M M M 1 
+2 M 5 3 2 
+1 2 3 M 1 
+0 1 M 3 2 
+0 1 1 2 M 
+
+
+Tablero oculto
+2 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x02', 'x10', 'x11']
+Lista de casillas destapadas:
+
+['y00']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x02 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x11 -> Probabilidad de no ser mina: 0.33333333333333337
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x02']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+2 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 0.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+1 2 M 2 1 
+1 M 2 2 M 
+2 2 3 2 2 
+2 M 3 M 1 
+M 3 M 2 1 
+
+
+Tablero oculto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x02', 'x10', 'x11']
+Lista de casillas destapadas:
+
+['y00']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x02 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x11 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x02']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 0.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+1 2 2 M M 
+M 3 M 3 2 
+2 M 2 1 0 
+2 3 2 1 0 
+M 2 M 1 0 
+
+
+Tablero oculto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x02', 'x10', 'x11']
+Lista de casillas destapadas:
+
+['y00']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x02 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x11 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x02']
+Nuevo tablero oculto
+1 ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x10', 'x11', 'x12', 'x13']
+Lista de casillas destapadas:
+
+['y00', 'y02']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5897435897435896
+x: x03 -> Probabilidad de no ser mina: 0.6068376068376069
+x: x04 -> Probabilidad de no ser mina: 0.6956521739130435
+x: x10 -> Probabilidad de no ser mina: 0.8205128205128205
+x: x11 -> Probabilidad de no ser mina: 0.5897435897435898
+x: x12 -> Probabilidad de no ser mina: 0.6068376068376069
+x: x13 -> Probabilidad de no ser mina: 0.6068376068376069
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x10']
+['x10']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x10']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+1 ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 0.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+0 1 M M 1 
+0 1 2 3 2 
+0 1 1 3 M 
+1 2 M 4 M 
+1 M 3 M 2 
+
+
+Tablero oculto
+0 1 ? ? ? 
+0 1 ? ? ? 
+0 1 ? ? ? 
+1 2 ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x03', 'x12', 'x22', 'x32', 'x40', 'x41', 'x42']
+Lista de casillas destapadas:
+
+['y01', 'y11', 'y21', 'y30', 'y31']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.5
+x: x03 -> Probabilidad de no ser mina: 0.5882352941176471
+x: x12 -> Probabilidad de no ser mina: 0.4999999999999999
+x: x22 -> Probabilidad de no ser mina: 1.0
+x: x32 -> Probabilidad de no ser mina: 0.5
+x: x40 -> Probabilidad de no ser mina: 0.5
+x: x41 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x42 -> Probabilidad de no ser mina: 0.5
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x22']
+['x22']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x22']
+Nuevo tablero oculto
+0 1 ? ? ? 
+0 1 ? ? ? 
+0 1 1 ? ? 
+1 2 ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+0 1 ? ? ? 
+0 1 ? ? ? 
+0 1 1 ? ? 
+1 2 ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x03', 'x12', 'x13', 'x23', 'x32', 'x33', 'x40', 'x41', 'x42']
+Lista de casillas destapadas:
+
+['y01', 'y11', 'y21', 'y22', 'y30', 'y31']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.5
+x: x03 -> Probabilidad de no ser mina: 0.5625
+x: x12 -> Probabilidad de no ser mina: 0.5
+x: x13 -> Probabilidad de no ser mina: 1.0
+x: x23 -> Probabilidad de no ser mina: 1.0
+x: x32 -> Probabilidad de no ser mina: 0.5
+x: x33 -> Probabilidad de no ser mina: 1.0
+x: x40 -> Probabilidad de no ser mina: 0.5
+x: x41 -> Probabilidad de no ser mina: 0.5
+x: x42 -> Probabilidad de no ser mina: 0.5
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x13', 'x23', 'x33']
+['x13', 'x23', 'x33']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x13', 'x23', 'x33']
+Nuevo tablero oculto
+0 1 ? ? ? 
+0 1 ? 3 ? 
+0 1 1 3 ? 
+1 2 ? 4 ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+0 1 ? ? ? 
+0 1 ? 3 ? 
+0 1 1 3 ? 
+1 2 ? 4 ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x03', 'x04', 'x12', 'x14', 'x24', 'x32', 'x34', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y01', 'y11', 'y13', 'y21', 'y22', 'y23', 'y30', 'y31', 'y33']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.5
+x: x03 -> Probabilidad de no ser mina: 0.5681818181818181
+x: x04 -> Probabilidad de no ser mina: 0.5681818181818181
+x: x12 -> Probabilidad de no ser mina: 0.4999999999999999
+x: x14 -> Probabilidad de no ser mina: 0.5454545454545455
+x: x24 -> Probabilidad de no ser mina: 0.3181818181818182
+x: x32 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x34 -> Probabilidad de no ser mina: 0.13636363636363638
+x: x40 -> Probabilidad de no ser mina: 0.5
+x: x41 -> Probabilidad de no ser mina: 0.5
+x: x42 -> Probabilidad de no ser mina: 0.5
+x: x43 -> Probabilidad de no ser mina: 0.27272727272727276
+x: x44 -> Probabilidad de no ser mina: 0.27272727272727276
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x03']
+['x03']
+
+Tiempo de paso: 4.0 segundos
+Destapando casilla: ['x03']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+0 1 ? ? ? 
+0 1 ? 3 ? 
+0 1 1 3 ? 
+1 2 ? 4 ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 5.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+M M 1 0 0 
+3 4 2 1 0 
+M 2 M 2 1 
+2 3 3 M 2 
+M 1 2 M 2 
+
+
+Tablero oculto
+? ? 1 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x01', 'x03', 'x11', 'x12', 'x13']
+Lista de casillas destapadas:
+
+['y02']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x01 -> Probabilidad de no ser mina: 0.7999999999999999
+x: x03 -> Probabilidad de no ser mina: 0.7999999999999999
+x: x11 -> Probabilidad de no ser mina: 0.7999999999999999
+x: x12 -> Probabilidad de no ser mina: 0.7999999999999999
+x: x13 -> Probabilidad de no ser mina: 0.7999999999999999
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x01']
+['x01']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x01']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+? ? 1 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 0.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+1 1 1 2 2 
+M 1 2 M M 
+2 2 2 M 3 
+M 2 2 3 2 
+1 2 M 2 M 
+
+
+Tablero oculto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x02', 'x10', 'x11']
+Lista de casillas destapadas:
+
+['y00']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x02 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x11 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x02']
+Nuevo tablero oculto
+1 ? 1 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 1 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x10', 'x11', 'x12', 'x13']
+Lista de casillas destapadas:
+
+['y00', 'y02']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6981132075471699
+x: x03 -> Probabilidad de no ser mina: 0.8679245283018867
+x: x04 -> Probabilidad de no ser mina: 0.6956521739130435
+x: x10 -> Probabilidad de no ser mina: 0.6037735849056605
+x: x11 -> Probabilidad de no ser mina: 0.6981132075471699
+x: x12 -> Probabilidad de no ser mina: 0.8679245283018867
+x: x13 -> Probabilidad de no ser mina: 0.8679245283018867
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x03']
+['x03']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x03']
+Nuevo tablero oculto
+1 ? 1 2 ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 1 2 ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x04', 'x10', 'x11', 'x12', 'x13', 'x14', 'x20']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y03']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.8333333333333333
+x: x04 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x10 -> Probabilidad de no ser mina: 0.3333333333333333
+x: x11 -> Probabilidad de no ser mina: 0.8333333333333334
+x: x12 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x13 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x14 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x20 -> Probabilidad de no ser mina: 0.6818181818181819
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x11']
+['x11']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x11']
+Nuevo tablero oculto
+1 ? 1 2 ? 
+? 1 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 1 2 ? 
+? 1 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x04', 'x10', 'x12', 'x13', 'x14', 'x20', 'x21', 'x22', 'x23']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y03', 'y11']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x04 -> Probabilidad de no ser mina: 0.3333333333333333
+x: x10 -> Probabilidad de no ser mina: 0.3333333333333333
+x: x12 -> Probabilidad de no ser mina: 1.0
+x: x13 -> Probabilidad de no ser mina: 0.3333333333333333
+x: x14 -> Probabilidad de no ser mina: 0.3333333333333333
+x: x20 -> Probabilidad de no ser mina: 1.0
+x: x21 -> Probabilidad de no ser mina: 1.0
+x: x22 -> Probabilidad de no ser mina: 1.0
+x: x23 -> Probabilidad de no ser mina: 0.6666666666666667
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x12', 'x20', 'x21', 'x22']
+['x12', 'x20', 'x21', 'x22']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x12', 'x20', 'x21', 'x22']
+Nuevo tablero oculto
+1 ? 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x04', 'x10', 'x13', 'x14', 'x23', 'x24', 'x30', 'x31', 'x32', 'x33']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y03', 'y11', 'y12', 'y20', 'y21', 'y22']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.7407407407407407
+x: x04 -> Probabilidad de no ser mina: 0.3703703703703704
+x: x10 -> Probabilidad de no ser mina: 0.2592592592592592
+x: x13 -> Probabilidad de no ser mina: 0.2592592592592593
+x: x14 -> Probabilidad de no ser mina: 0.37037037037037035
+x: x23 -> Probabilidad de no ser mina: 0.0
+x: x24 -> Probabilidad de no ser mina: 0.5882352941176471
+x: x30 -> Probabilidad de no ser mina: 0.0
+x: x31 -> Probabilidad de no ser mina: 0.7407407407407407
+x: x32 -> Probabilidad de no ser mina: 1.0
+x: x33 -> Probabilidad de no ser mina: 1.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x32', 'x33']
+['x32', 'x33']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x32', 'x33']
+Nuevo tablero oculto
+1 ? 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? ? 2 3 ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? ? 2 3 ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x04', 'x10', 'x13', 'x14', 'x23', 'x24', 'x30', 'x31', 'x34', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y03', 'y11', 'y12', 'y20', 'y21', 'y22', 'y32', 'y33']
+Lista de minas encontradas:
+
+['x23', 'x30']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.9090909090909091
+x: x04 -> Probabilidad de no ser mina: 0.45454545454545464
+x: x10 -> Probabilidad de no ser mina: 0.09090909090909093
+x: x13 -> Probabilidad de no ser mina: 0.09090909090909091
+x: x14 -> Probabilidad de no ser mina: 0.45454545454545464
+x: x24 -> Probabilidad de no ser mina: 0.5757575757575758
+x: x31 -> Probabilidad de no ser mina: 0.9090909090909091
+x: x34 -> Probabilidad de no ser mina: 0.5757575757575758
+x: x40 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x41 -> Probabilidad de no ser mina: 0.8181818181818181
+x: x42 -> Probabilidad de no ser mina: 0.6363636363636364
+x: x43 -> Probabilidad de no ser mina: 0.6363636363636365
+x: x44 -> Probabilidad de no ser mina: 0.5757575757575758
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x01']
+['x01']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x01']
+Nuevo tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? ? 2 3 ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? ? 2 3 ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x04', 'x10', 'x13', 'x14', 'x23', 'x24', 'x30', 'x31', 'x34', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y00', 'y01', 'y02', 'y03', 'y11', 'y12', 'y20', 'y21', 'y22', 'y32', 'y33']
+Lista de minas encontradas:
+
+['x23', 'x30']
+Oculta con mayor probabilidad de no ser mina
+x: x04 -> Probabilidad de no ser mina: 0.5
+x: x10 -> Probabilidad de no ser mina: 0.0
+x: x13 -> Probabilidad de no ser mina: 0.0
+x: x14 -> Probabilidad de no ser mina: 0.5
+x: x24 -> Probabilidad de no ser mina: 0.5942028985507246
+x: x31 -> Probabilidad de no ser mina: 1.0
+x: x34 -> Probabilidad de no ser mina: 0.5942028985507246
+x: x40 -> Probabilidad de no ser mina: 0.6428571428571428
+x: x41 -> Probabilidad de no ser mina: 0.782608695652174
+x: x42 -> Probabilidad de no ser mina: 0.6086956521739131
+x: x43 -> Probabilidad de no ser mina: 0.6086956521739131
+x: x44 -> Probabilidad de no ser mina: 0.5942028985507246
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x31']
+['x31']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x31']
+Nuevo tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? 2 2 3 ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? 2 2 3 ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x04', 'x10', 'x13', 'x14', 'x23', 'x24', 'x30', 'x34', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y03', 'y31', 'y32', 'y33']
+Lista de minas encontradas:
+
+['x23', 'x30', 'x10', 'x13']
+Oculta con mayor probabilidad de no ser mina
+x: x04 -> Probabilidad de no ser mina: 0.5
+x: x14 -> Probabilidad de no ser mina: 0.5
+x: x24 -> Probabilidad de no ser mina: 0.6041666666666666
+x: x34 -> Probabilidad de no ser mina: 0.6041666666666666
+x: x40 -> Probabilidad de no ser mina: 0.8124999999999999
+x: x41 -> Probabilidad de no ser mina: 0.8124999999999999
+x: x42 -> Probabilidad de no ser mina: 0.375
+x: x43 -> Probabilidad de no ser mina: 0.8124999999999999
+x: x44 -> Probabilidad de no ser mina: 0.6041666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x40']
+['x40']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x40']
+Nuevo tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? 2 2 3 ? 
+1 ? ? ? ? 
+
+
+Tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? 2 2 3 ? 
+1 ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x04', 'x10', 'x13', 'x14', 'x23', 'x24', 'x30', 'x34', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y03', 'y31', 'y32', 'y33', 'y40']
+Lista de minas encontradas:
+
+['x23', 'x30', 'x10', 'x13']
+Oculta con mayor probabilidad de no ser mina
+x: x04 -> Probabilidad de no ser mina: 0.5
+x: x14 -> Probabilidad de no ser mina: 0.5
+x: x24 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x34 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x41 -> Probabilidad de no ser mina: 1.0
+x: x42 -> Probabilidad de no ser mina: 0.0
+x: x43 -> Probabilidad de no ser mina: 1.0
+x: x44 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x41', 'x43']
+['x41', 'x43']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x41', 'x43']
+Nuevo tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? 2 2 3 ? 
+1 2 ? 2 ? 
+
+
+Tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? ? 
+? 2 2 3 ? 
+1 2 ? 2 ? 
+
+Lista de casillas ocultas:
+
+['x04', 'x10', 'x13', 'x14', 'x23', 'x24', 'x30', 'x34', 'x42', 'x44']
+Lista de casillas destapadas:
+
+['y03', 'y33', 'y43']
+Lista de minas encontradas:
+
+['x23', 'x30', 'x10', 'x13', 'x42']
+Oculta con mayor probabilidad de no ser mina
+x: x04 -> Probabilidad de no ser mina: 0.5
+x: x14 -> Probabilidad de no ser mina: 0.5
+x: x24 -> Probabilidad de no ser mina: 1.0
+x: x34 -> Probabilidad de no ser mina: 0.5
+x: x44 -> Probabilidad de no ser mina: 0.5
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x24']
+['x24']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x24']
+Nuevo tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? 3 
+? 2 2 3 ? 
+1 2 ? 2 ? 
+
+
+Tablero oculto
+1 1 1 2 ? 
+? 1 2 ? ? 
+2 2 2 ? 3 
+? 2 2 3 ? 
+1 2 ? 2 ? 
+
+Lista de casillas ocultas:
+
+['x04', 'x10', 'x13', 'x14', 'x23', 'x30', 'x34', 'x42', 'x44']
+Lista de casillas destapadas:
+
+['y03', 'y24', 'y33', 'y43']
+Lista de minas encontradas:
+
+['x23', 'x30', 'x10', 'x13', 'x42']
+Oculta con mayor probabilidad de no ser mina
+x: x04 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x14 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x34 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x44 -> Probabilidad de no ser mina: 0.49999999999999994
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x04']
+['x04']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x04']
+Nuevo tablero oculto
+1 1 1 2 2 
+? 1 2 ? ? 
+2 2 2 ? 3 
+? 2 2 3 ? 
+1 2 ? 2 ? 
+
+
+Tablero oculto
+1 1 1 2 2 
+? 1 2 ? ? 
+2 2 2 ? 3 
+? 2 2 3 ? 
+1 2 ? 2 ? 
+
+Lista de casillas ocultas:
+
+['x10', 'x13', 'x14', 'x23', 'x30', 'x34', 'x42', 'x44']
+Lista de casillas destapadas:
+
+['y03', 'y04', 'y24', 'y33', 'y43']
+Lista de minas encontradas:
+
+['x23', 'x30', 'x10', 'x13', 'x42']
+Oculta con mayor probabilidad de no ser mina
+x: x14 -> Probabilidad de no ser mina: 0.0
+x: x34 -> Probabilidad de no ser mina: 1.0
+x: x44 -> Probabilidad de no ser mina: 0.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x34']
+['x34']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x34']
+Nuevo tablero oculto
+1 1 1 2 2 
+? 1 2 ? ? 
+2 2 2 ? 3 
+? 2 2 3 2 
+1 2 ? 2 ? 
+
+Has ganado
+Veces perdidas: 13
+Terminado en 9.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+0 0 0 1 1 
+1 2 2 3 M 
+M 3 M M 2 
+M 4 4 4 2 
+1 2 M M 1 
+
+
+Tablero oculto
+0 0 0 1 ? 
+1 2 2 3 ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x04', 'x14', 'x20', 'x21', 'x22', 'x23', 'x24', 'x30']
+Lista de casillas destapadas:
+
+['y03', 'y10', 'y11', 'y12', 'y13']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x04 -> Probabilidad de no ser mina: 0.5
+x: x14 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x20 -> Probabilidad de no ser mina: 0.5
+x: x21 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x22 -> Probabilidad de no ser mina: 0.0
+x: x23 -> Probabilidad de no ser mina: 0.5
+x: x24 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x30 -> Probabilidad de no ser mina: 0.5882352941176471
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x30']
+['x30']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x30']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+0 0 0 1 ? 
+1 2 2 3 ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 1.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+0 1 M 3 M 
+1 3 3 5 M 
+1 M M 3 M 
+1 2 2 3 2 
+0 0 0 1 M 
+
+
+Tablero oculto
+0 1 ? ? ? 
+1 3 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x03', 'x12', 'x20', 'x21', 'x22']
+Lista de casillas destapadas:
+
+['y01', 'y10', 'y11']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.5
+x: x03 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x12 -> Probabilidad de no ser mina: 0.5
+x: x20 -> Probabilidad de no ser mina: 0.5
+x: x21 -> Probabilidad de no ser mina: 0.5
+x: x22 -> Probabilidad de no ser mina: 0.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x03']
+['x03']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x03']
+Nuevo tablero oculto
+0 1 ? 3 ? 
+1 3 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+0 1 ? 3 ? 
+1 3 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x04', 'x12', 'x13', 'x14', 'x20', 'x21', 'x22', 'x23']
+Lista de casillas destapadas:
+
+['y01', 'y03', 'y10', 'y11']
+Lista de minas encontradas:
+
+['x22']
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.5
+x: x04 -> Probabilidad de no ser mina: 0.33333333333333326
+x: x12 -> Probabilidad de no ser mina: 0.5
+x: x13 -> Probabilidad de no ser mina: 0.33333333333333326
+x: x14 -> Probabilidad de no ser mina: 0.33333333333333326
+x: x20 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x21 -> Probabilidad de no ser mina: 0.5
+x: x23 -> Probabilidad de no ser mina: 0.7
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x23']
+['x23']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x23']
+Nuevo tablero oculto
+0 1 ? 3 ? 
+1 3 ? ? ? 
+? ? ? 3 ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+0 1 ? 3 ? 
+1 3 ? ? ? 
+? ? ? 3 ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x04', 'x12', 'x13', 'x14', 'x20', 'x21', 'x22', 'x24', 'x30', 'x32', 'x33', 'x34']
+Lista de casillas destapadas:
+
+['y01', 'y03', 'y10', 'y11', 'y23']
+Lista de minas encontradas:
+
+['x22']
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.2988505747126437
+x: x04 -> Probabilidad de no ser mina: 0.14942528735632188
+x: x12 -> Probabilidad de no ser mina: 0.7011494252873564
+x: x13 -> Probabilidad de no ser mina: 0.4252873563218391
+x: x14 -> Probabilidad de no ser mina: 0.4252873563218391
+x: x20 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x21 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x24 -> Probabilidad de no ser mina: 0.8620689655172414
+x: x30 -> Probabilidad de no ser mina: 0.6842105263157895
+x: x32 -> Probabilidad de no ser mina: 0.8620689655172414
+x: x33 -> Probabilidad de no ser mina: 0.8620689655172414
+x: x34 -> Probabilidad de no ser mina: 0.8620689655172414
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x24']
+['x24']
+
+Tiempo de paso: 9.0 segundos
+Destapando casilla: ['x24']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+0 1 ? 3 ? 
+1 3 ? ? ? 
+? ? ? 3 ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 10.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+0 1 M 2 1 
+0 1 2 M 2 
+2 3 3 3 M 
+M M M 3 1 
+2 4 M 2 0 
+
+
+Tablero oculto
+0 1 ? ? ? 
+0 1 ? ? ? 
+2 3 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x03', 'x12', 'x22', 'x30', 'x31', 'x32']
+Lista de casillas destapadas:
+
+['y01', 'y11', 'y20', 'y21']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.631578947368421
+x: x03 -> Probabilidad de no ser mina: 0.631578947368421
+x: x12 -> Probabilidad de no ser mina: 0.368421052631579
+x: x22 -> Probabilidad de no ser mina: 1.0
+x: x30 -> Probabilidad de no ser mina: 0.0
+x: x31 -> Probabilidad de no ser mina: 0.0
+x: x32 -> Probabilidad de no ser mina: 0.631578947368421
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x22']
+['x22']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x22']
+Nuevo tablero oculto
+0 1 ? ? ? 
+0 1 ? ? ? 
+2 3 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+0 1 ? ? ? 
+0 1 ? ? ? 
+2 3 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x02', 'x03', 'x12', 'x13', 'x23', 'x30', 'x31', 'x32', 'x33']
+Lista de casillas destapadas:
+
+['y01', 'y11', 'y21', 'y22']
+Lista de minas encontradas:
+
+['x30', 'x31']
+Oculta con mayor probabilidad de no ser mina
+x: x02 -> Probabilidad de no ser mina: 0.7222222222222222
+x: x03 -> Probabilidad de no ser mina: 0.7222222222222222
+x: x12 -> Probabilidad de no ser mina: 0.2777777777777778
+x: x13 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x23 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x32 -> Probabilidad de no ser mina: 0.7222222222222222
+x: x33 -> Probabilidad de no ser mina: 0.6666666666666667
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x02']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+0 1 ? ? ? 
+0 1 ? ? ? 
+2 3 3 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 1.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+M M 2 1 0 
+2 4 M 2 0 
+1 3 M 2 0 
+M 3 3 2 1 
+2 M 2 M 1 
+
+
+Tablero oculto
+? ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x01', 'x03', 'x11', 'x12', 'x13']
+Lista de casillas destapadas:
+
+['y02']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x01 -> Probabilidad de no ser mina: 0.6
+x: x03 -> Probabilidad de no ser mina: 0.6
+x: x11 -> Probabilidad de no ser mina: 0.6
+x: x12 -> Probabilidad de no ser mina: 0.6
+x: x13 -> Probabilidad de no ser mina: 0.6
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x00']
+['x00']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x00']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+? ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 0.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+M M 2 1 0 
+M 4 M 1 0 
+2 3 1 1 0 
+M 2 0 1 1 
+M 2 0 1 M 
+
+
+Tablero oculto
+? ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x01', 'x03', 'x11', 'x12', 'x13']
+Lista de casillas destapadas:
+
+['y02']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x01 -> Probabilidad de no ser mina: 0.6
+x: x03 -> Probabilidad de no ser mina: 0.6
+x: x11 -> Probabilidad de no ser mina: 0.6
+x: x12 -> Probabilidad de no ser mina: 0.6
+x: x13 -> Probabilidad de no ser mina: 0.6
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x00']
+['x00']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x00']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+? ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 1.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+1 M 2 1 1 
+2 3 4 M 1 
+2 M M 2 1 
+3 M 4 2 0 
+M 3 M 1 0 
+
+
+Tablero oculto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x02', 'x10', 'x11']
+Lista de casillas destapadas:
+
+['y00']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x02 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x11 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x02']
+Nuevo tablero oculto
+1 ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x10', 'x11', 'x12', 'x13']
+Lista de casillas destapadas:
+
+['y00', 'y02']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5897435897435896
+x: x03 -> Probabilidad de no ser mina: 0.6068376068376069
+x: x04 -> Probabilidad de no ser mina: 0.6956521739130435
+x: x10 -> Probabilidad de no ser mina: 0.8205128205128205
+x: x11 -> Probabilidad de no ser mina: 0.5897435897435898
+x: x12 -> Probabilidad de no ser mina: 0.6068376068376069
+x: x13 -> Probabilidad de no ser mina: 0.6068376068376069
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x10']
+['x10']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x10']
+Nuevo tablero oculto
+1 ? 2 ? ? 
+2 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? ? 
+2 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x11', 'x12', 'x13', 'x20', 'x21']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y10']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5
+x: x03 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x04 -> Probabilidad de no ser mina: 0.6818181818181819
+x: x11 -> Probabilidad de no ser mina: 0.5
+x: x12 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x13 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x20 -> Probabilidad de no ser mina: 0.5
+x: x21 -> Probabilidad de no ser mina: 0.5
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x04']
+['x04']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x04']
+Nuevo tablero oculto
+1 ? 2 ? 1 
+2 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? 1 
+2 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x11', 'x12', 'x13', 'x14', 'x20', 'x21', 'x22']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y04', 'y10']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x03 -> Probabilidad de no ser mina: 0.6
+x: x11 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x12 -> Probabilidad de no ser mina: 0.8
+x: x13 -> Probabilidad de no ser mina: 0.6
+x: x14 -> Probabilidad de no ser mina: 0.8
+x: x20 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x21 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x22 -> Probabilidad de no ser mina: 0.6666666666666667
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x12']
+['x12']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x12']
+Nuevo tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x11', 'x13', 'x14', 'x20', 'x21', 'x22', 'x23', 'x24']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y04', 'y10', 'y12']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5
+x: x03 -> Probabilidad de no ser mina: 0.5
+x: x11 -> Probabilidad de no ser mina: 0.5
+x: x13 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x14 -> Probabilidad de no ser mina: 1.0
+x: x20 -> Probabilidad de no ser mina: 0.787878787878788
+x: x21 -> Probabilidad de no ser mina: 0.2121212121212121
+x: x22 -> Probabilidad de no ser mina: 0.393939393939394
+x: x23 -> Probabilidad de no ser mina: 0.393939393939394
+x: x24 -> Probabilidad de no ser mina: 0.65
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x14']
+['x14']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x14']
+Nuevo tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x11', 'x13', 'x20', 'x21', 'x22', 'x23', 'x24', 'x30']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y04', 'y10', 'y12', 'y14']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5
+x: x03 -> Probabilidad de no ser mina: 0.5
+x: x11 -> Probabilidad de no ser mina: 0.5
+x: x13 -> Probabilidad de no ser mina: 0.5
+x: x20 -> Probabilidad de no ser mina: 1.0
+x: x21 -> Probabilidad de no ser mina: 0.0
+x: x22 -> Probabilidad de no ser mina: 0.0
+x: x23 -> Probabilidad de no ser mina: 1.0
+x: x24 -> Probabilidad de no ser mina: 1.0
+x: x30 -> Probabilidad de no ser mina: 0.631578947368421
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x20', 'x23', 'x24']
+['x20', 'x23', 'x24']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x20', 'x23', 'x24']
+Nuevo tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x11', 'x13', 'x21', 'x22', 'x30', 'x31', 'x32', 'x33', 'x34', 'x40']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y04', 'y10', 'y12', 'y14', 'y20', 'y23', 'y24']
+Lista de minas encontradas:
+
+['x21', 'x22']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5238095238095238
+x: x03 -> Probabilidad de no ser mina: 0.5238095238095238
+x: x11 -> Probabilidad de no ser mina: 0.47619047619047616
+x: x13 -> Probabilidad de no ser mina: 0.47619047619047616
+x: x30 -> Probabilidad de no ser mina: 0.7619047619047619
+x: x31 -> Probabilidad de no ser mina: 0.7619047619047619
+x: x32 -> Probabilidad de no ser mina: 1.0
+x: x33 -> Probabilidad de no ser mina: 0.7619047619047619
+x: x34 -> Probabilidad de no ser mina: 0.7619047619047619
+x: x40 -> Probabilidad de no ser mina: 0.6875
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x32']
+['x32']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x32']
+Nuevo tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+? ? 4 ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+? ? 4 ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x11', 'x13', 'x21', 'x22', 'x30', 'x31', 'x33', 'x34', 'x40', 'x41', 'x42', 'x43']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y04', 'y10', 'y12', 'y14', 'y20', 'y23', 'y24', 'y32']
+Lista de minas encontradas:
+
+['x21', 'x22']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.4477611940298507
+x: x03 -> Probabilidad de no ser mina: 0.44776119402985076
+x: x11 -> Probabilidad de no ser mina: 0.5522388059701492
+x: x13 -> Probabilidad de no ser mina: 0.5522388059701493
+x: x30 -> Probabilidad de no ser mina: 0.7761194029850746
+x: x31 -> Probabilidad de no ser mina: 0.6716417910447762
+x: x33 -> Probabilidad de no ser mina: 0.6716417910447761
+x: x34 -> Probabilidad de no ser mina: 0.7761194029850746
+x: x40 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x41 -> Probabilidad de no ser mina: 0.5522388059701493
+x: x42 -> Probabilidad de no ser mina: 0.5522388059701493
+x: x43 -> Probabilidad de no ser mina: 0.5522388059701493
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x30']
+['x30']
+
+Tiempo de paso: 5.0 segundos
+Destapando casilla: ['x30']
+Nuevo tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x11', 'x13', 'x21', 'x22', 'x31', 'x33', 'x34', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y04', 'y10', 'y12', 'y14', 'y20', 'y23', 'y24', 'y30', 'y32']
+Lista de minas encontradas:
+
+['x21', 'x22']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.3729838709677419
+x: x03 -> Probabilidad de no ser mina: 0.5262096774193549
+x: x11 -> Probabilidad de no ser mina: 0.6270161290322581
+x: x13 -> Probabilidad de no ser mina: 0.4737903225806451
+x: x31 -> Probabilidad de no ser mina: 0.37298387096774194
+x: x33 -> Probabilidad de no ser mina: 0.8185483870967742
+x: x34 -> Probabilidad de no ser mina: 0.7076612903225806
+x: x40 -> Probabilidad de no ser mina: 0.2540322580645161
+x: x41 -> Probabilidad de no ser mina: 0.37298387096774194
+x: x42 -> Probabilidad de no ser mina: 0.7177419354838709
+x: x43 -> Probabilidad de no ser mina: 0.717741935483871
+x: x44 -> Probabilidad de no ser mina: 0.6428571428571428
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x33']
+['x33']
+
+Tiempo de paso: 5.0 segundos
+Destapando casilla: ['x33']
+Nuevo tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 2 ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 2 ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x11', 'x13', 'x21', 'x22', 'x31', 'x34', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y04', 'y10', 'y12', 'y14', 'y20', 'y23', 'y24', 'y30', 'y32', 'y33']
+Lista de minas encontradas:
+
+['x21', 'x22']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x03 -> Probabilidad de no ser mina: 0.8333333333333333
+x: x11 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x13 -> Probabilidad de no ser mina: 0.16666666666666669
+x: x31 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x34 -> Probabilidad de no ser mina: 0.8333333333333333
+x: x40 -> Probabilidad de no ser mina: 0.33333333333333337
+x: x41 -> Probabilidad de no ser mina: 0.3333333333333333
+x: x42 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x43 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x44 -> Probabilidad de no ser mina: 0.8333333333333333
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x03']
+['x03']
+
+Tiempo de paso: 4.0 segundos
+Destapando casilla: ['x03']
+Nuevo tablero oculto
+1 ? 2 1 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 2 ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 1 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 2 ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x11', 'x13', 'x21', 'x22', 'x31', 'x34', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y03', 'y04', 'y10', 'y12', 'y14', 'y20', 'y23', 'y24', 'y30', 'y32', 'y33']
+Lista de minas encontradas:
+
+['x21', 'x22']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.4
+x: x11 -> Probabilidad de no ser mina: 0.6
+x: x13 -> Probabilidad de no ser mina: 0.0
+x: x31 -> Probabilidad de no ser mina: 0.4000000000000001
+x: x34 -> Probabilidad de no ser mina: 1.0
+x: x40 -> Probabilidad de no ser mina: 0.2
+x: x41 -> Probabilidad de no ser mina: 0.39999999999999997
+x: x42 -> Probabilidad de no ser mina: 0.6
+x: x43 -> Probabilidad de no ser mina: 0.6
+x: x44 -> Probabilidad de no ser mina: 0.8
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x34']
+['x34']
+
+Tiempo de paso: 3.0 segundos
+Destapando casilla: ['x34']
+Nuevo tablero oculto
+1 ? 2 1 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 2 0 
+? ? ? 1 0 
+
+
+Tablero oculto
+1 ? 2 1 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 2 0 
+? ? ? 1 0 
+
+Lista de casillas ocultas:
+
+['x01', 'x11', 'x13', 'x21', 'x22', 'x31', 'x40', 'x41', 'x42']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y10', 'y12', 'y20', 'y30', 'y32', 'y33', 'y43']
+Lista de minas encontradas:
+
+['x21', 'x22', 'x13']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x11 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x31 -> Probabilidad de no ser mina: 0.49999999999999994
+x: x40 -> Probabilidad de no ser mina: 0.0
+x: x41 -> Probabilidad de no ser mina: 0.5
+x: x42 -> Probabilidad de no ser mina: 0.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x41']
+['x41']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x41']
+Nuevo tablero oculto
+1 ? 2 1 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 2 0 
+? 3 ? 1 0 
+
+
+Tablero oculto
+1 ? 2 1 1 
+2 ? 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 2 0 
+? 3 ? 1 0 
+
+Lista de casillas ocultas:
+
+['x01', 'x11', 'x13', 'x21', 'x22', 'x31', 'x40', 'x42']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y10', 'y12', 'y20', 'y30', 'y32', 'y41']
+Lista de minas encontradas:
+
+['x21', 'x22', 'x13', 'x40', 'x42']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.0
+x: x11 -> Probabilidad de no ser mina: 1.0
+x: x31 -> Probabilidad de no ser mina: 0.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x11']
+['x11']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x11']
+Nuevo tablero oculto
+1 ? 2 1 1 
+2 3 4 ? 1 
+2 ? ? 2 1 
+3 ? 4 2 0 
+? 3 ? 1 0 
+
+Has ganado
+Veces perdidas: 5
+Terminado en 25.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+1 M 2 1 0 
+2 3 M 1 0 
+M 3 2 2 1 
+M 3 2 M 2 
+M 2 2 M 2 
+
+
+Tablero oculto
+1 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x02', 'x10', 'x11']
+Lista de casillas destapadas:
+
+['y00']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x02 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x11 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x02']
+['x02']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x02']
+Nuevo tablero oculto
+1 ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x10', 'x11', 'x12', 'x13']
+Lista de casillas destapadas:
+
+['y00', 'y02']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5897435897435896
+x: x03 -> Probabilidad de no ser mina: 0.6068376068376069
+x: x04 -> Probabilidad de no ser mina: 0.6956521739130435
+x: x10 -> Probabilidad de no ser mina: 0.8205128205128205
+x: x11 -> Probabilidad de no ser mina: 0.5897435897435898
+x: x12 -> Probabilidad de no ser mina: 0.6068376068376069
+x: x13 -> Probabilidad de no ser mina: 0.6068376068376069
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x10']
+['x10']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x10']
+Nuevo tablero oculto
+1 ? 2 ? ? 
+2 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 ? ? 
+2 ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x03', 'x04', 'x11', 'x12', 'x13', 'x20', 'x21']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y10']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5
+x: x03 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x04 -> Probabilidad de no ser mina: 0.6818181818181819
+x: x11 -> Probabilidad de no ser mina: 0.5
+x: x12 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x13 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x20 -> Probabilidad de no ser mina: 0.5
+x: x21 -> Probabilidad de no ser mina: 0.5
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x04']
+['x04']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x04']
+Nuevo tablero oculto
+1 ? 2 1 0 
+2 ? ? 1 0 
+? ? ? 2 1 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 1 0 
+2 ? ? 1 0 
+? ? ? 2 1 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x11', 'x12', 'x20', 'x21', 'x22', 'x30', 'x32', 'x33', 'x34']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y03', 'y10', 'y13', 'y23', 'y24']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.5
+x: x11 -> Probabilidad de no ser mina: 0.5
+x: x12 -> Probabilidad de no ser mina: 0.0
+x: x20 -> Probabilidad de no ser mina: 0.5
+x: x21 -> Probabilidad de no ser mina: 0.5
+x: x22 -> Probabilidad de no ser mina: 1.0
+x: x30 -> Probabilidad de no ser mina: 0.5625
+x: x32 -> Probabilidad de no ser mina: 1.0
+x: x33 -> Probabilidad de no ser mina: 0.5
+x: x34 -> Probabilidad de no ser mina: 0.5
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x22', 'x32']
+['x22', 'x32']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x22', 'x32']
+Nuevo tablero oculto
+1 ? 2 1 0 
+2 ? ? 1 0 
+? ? 2 2 1 
+? ? 2 ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 1 0 
+2 ? ? 1 0 
+? ? 2 2 1 
+? ? 2 ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x11', 'x12', 'x20', 'x21', 'x30', 'x31', 'x33', 'x34', 'x41', 'x42', 'x43']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y10', 'y22', 'y23', 'y24', 'y32']
+Lista de minas encontradas:
+
+['x12']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.2142857142857143
+x: x11 -> Probabilidad de no ser mina: 0.7857142857142857
+x: x20 -> Probabilidad de no ser mina: 0.28571428571428575
+x: x21 -> Probabilidad de no ser mina: 0.7142857142857143
+x: x30 -> Probabilidad de no ser mina: 0.5714285714285714
+x: x31 -> Probabilidad de no ser mina: 0.7857142857142857
+x: x33 -> Probabilidad de no ser mina: 0.7142857142857143
+x: x34 -> Probabilidad de no ser mina: 0.28571428571428575
+x: x41 -> Probabilidad de no ser mina: 0.5952380952380953
+x: x42 -> Probabilidad de no ser mina: 0.5952380952380953
+x: x43 -> Probabilidad de no ser mina: 0.5952380952380953
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x11']
+['x11']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x11']
+Nuevo tablero oculto
+1 ? 2 1 0 
+2 3 ? 1 0 
+? ? 2 2 1 
+? ? 2 ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 1 0 
+2 3 ? 1 0 
+? ? 2 2 1 
+? ? 2 ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x12', 'x20', 'x21', 'x30', 'x31', 'x33', 'x34', 'x41', 'x42', 'x43']
+Lista de casillas destapadas:
+
+['y00', 'y02', 'y10', 'y11', 'y22', 'y23', 'y24', 'y32']
+Lista de minas encontradas:
+
+['x12']
+Oculta con mayor probabilidad de no ser mina
+x: x01 -> Probabilidad de no ser mina: 0.0
+x: x20 -> Probabilidad de no ser mina: 0.35
+x: x21 -> Probabilidad de no ser mina: 0.65
+x: x30 -> Probabilidad de no ser mina: 0.5384615384615384
+x: x31 -> Probabilidad de no ser mina: 0.7000000000000001
+x: x33 -> Probabilidad de no ser mina: 0.65
+x: x34 -> Probabilidad de no ser mina: 0.35
+x: x41 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x42 -> Probabilidad de no ser mina: 0.6666666666666667
+x: x43 -> Probabilidad de no ser mina: 0.6666666666666666
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x31']
+['x31']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x31']
+Nuevo tablero oculto
+1 ? 2 1 0 
+2 3 ? 1 0 
+? ? 2 2 1 
+? 3 2 ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+1 ? 2 1 0 
+2 3 ? 1 0 
+? ? 2 2 1 
+? 3 2 ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x01', 'x12', 'x20', 'x21', 'x30', 'x33', 'x34', 'x40', 'x41', 'x42', 'x43', 'x44']
+Lista de casillas destapadas:
+
+['y10', 'y11', 'y22', 'y23', 'y24', 'y31', 'y32']
+Lista de minas encontradas:
+
+['x12', 'x01']
+Oculta con mayor probabilidad de no ser mina
+x: x20 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x21 -> Probabilidad de no ser mina: 0.5000000000000001
+x: x30 -> Probabilidad de no ser mina: 0.42424242424242425
+x: x33 -> Probabilidad de no ser mina: 0.4999999999999999
+x: x34 -> Probabilidad de no ser mina: 0.5
+x: x40 -> Probabilidad de no ser mina: 0.42424242424242425
+x: x41 -> Probabilidad de no ser mina: 0.5757575757575757
+x: x42 -> Probabilidad de no ser mina: 0.5757575757575757
+x: x43 -> Probabilidad de no ser mina: 0.8484848484848484
+x: x44 -> Probabilidad de no ser mina: 0.5833333333333333
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x43']
+['x43']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x43']
+That was a mine! Unlucky!
+Ultimo tablero resuelto
+1 ? 2 1 0 
+2 3 ? 1 0 
+? ? 2 2 1 
+? 3 2 ? ? 
+? ? ? ? ? 
+
+
+Has perdido!
+Terminado en 6.0 segundos
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+
+Tablero Destapado
+M 2 M 2 1 
+1 3 3 M 2 
+0 1 M 3 M 
+2 3 2 2 1 
+M M 1 0 0 
+
+
+Tablero oculto
+? 2 ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x02', 'x03', 'x10', 'x11', 'x12']
+Lista de casillas destapadas:
+
+['y01']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.6
+x: x02 -> Probabilidad de no ser mina: 0.6
+x: x03 -> Probabilidad de no ser mina: 0.7083333333333333
+x: x10 -> Probabilidad de no ser mina: 0.6
+x: x11 -> Probabilidad de no ser mina: 0.6
+x: x12 -> Probabilidad de no ser mina: 0.6
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x03']
+['x03']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x03']
+Nuevo tablero oculto
+? 2 ? 2 ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 ? 2 ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x02', 'x04', 'x10', 'x11', 'x12', 'x13', 'x14', 'x20']
+Lista de casillas destapadas:
+
+['y01', 'y03']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.6439366015481017
+x: x02 -> Probabilidad de no ser mina: 0.5340950976778475
+x: x04 -> Probabilidad de no ser mina: 0.6439366015481017
+x: x10 -> Probabilidad de no ser mina: 0.6439366015481017
+x: x11 -> Probabilidad de no ser mina: 0.6439366015481017
+x: x12 -> Probabilidad de no ser mina: 0.5340950976778475
+x: x13 -> Probabilidad de no ser mina: 0.6439366015481017
+x: x14 -> Probabilidad de no ser mina: 0.6439366015481017
+x: x20 -> Probabilidad de no ser mina: 0.6956521739130435
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x20']
+['x20']
+
+Tiempo de paso: 1.0 segundos
+Destapando casilla: ['x20']
+Nuevo tablero oculto
+? 2 ? 2 ? 
+1 3 ? ? ? 
+0 1 ? ? ? 
+2 3 ? ? ? 
+? ? ? ? ? 
+
+
+Tablero oculto
+? 2 ? 2 ? 
+1 3 ? ? ? 
+0 1 ? ? ? 
+2 3 ? ? ? 
+? ? ? ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x02', 'x04', 'x12', 'x13', 'x14', 'x22', 'x23', 'x32', 'x40', 'x41', 'x42']
+Lista de casillas destapadas:
+
+['y01', 'y03', 'y10', 'y11', 'y21', 'y30', 'y31']
+Lista de minas encontradas:
+
+[]
+Oculta con mayor probabilidad de no ser mina
+x: x00 -> Probabilidad de no ser mina: 0.0
+x: x02 -> Probabilidad de no ser mina: 0.0
+x: x04 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x12 -> Probabilidad de no ser mina: 1.0
+x: x13 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x14 -> Probabilidad de no ser mina: 0.6666666666666666
+x: x22 -> Probabilidad de no ser mina: 0.0
+x: x23 -> Probabilidad de no ser mina: 0.5882352941176471
+x: x32 -> Probabilidad de no ser mina: 1.0
+x: x40 -> Probabilidad de no ser mina: 0.0
+x: x41 -> Probabilidad de no ser mina: 0.0
+x: x42 -> Probabilidad de no ser mina: 1.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x12', 'x32', 'x42']
+['x12', 'x32', 'x42']
+
+Tiempo de paso: 2.0 segundos
+Destapando casilla: ['x12', 'x32', 'x42']
+Nuevo tablero oculto
+? 2 ? 2 ? 
+1 3 3 ? ? 
+0 1 ? ? ? 
+2 3 2 ? ? 
+? ? 1 ? ? 
+
+
+Tablero oculto
+? 2 ? 2 ? 
+1 3 3 ? ? 
+0 1 ? ? ? 
+2 3 2 ? ? 
+? ? 1 ? ? 
+
+Lista de casillas ocultas:
+
+['x00', 'x02', 'x04', 'x13', 'x14', 'x22', 'x23', 'x24', 'x33', 'x40', 'x41', 'x43']
+Lista de casillas destapadas:
+
+['y03', 'y12', 'y32', 'y42']
+Lista de minas encontradas:
+
+['x00', 'x02', 'x22', 'x40', 'x41']
+Oculta con mayor probabilidad de no ser mina
+x: x04 -> Probabilidad de no ser mina: 1.0
+x: x13 -> Probabilidad de no ser mina: 0.0
+x: x14 -> Probabilidad de no ser mina: 1.0
+x: x23 -> Probabilidad de no ser mina: 1.0
+x: x24 -> Probabilidad de no ser mina: 0.8571428571428572
+x: x33 -> Probabilidad de no ser mina: 1.0
+x: x43 -> Probabilidad de no ser mina: 1.0
+Lista de mejores ocultas con alta probabilidad de no ser minas: ['x04', 'x14', 'x23', 'x33', 'x43']
+['x04', 'x14', 'x23', 'x33', 'x43']
+
+Tiempo de paso: 0.0 segundos
+Destapando casilla: ['x04', 'x14', 'x23', 'x33', 'x43']
+Nuevo tablero oculto
+? 2 ? 2 1 
+1 3 3 ? 2 
+0 1 ? 3 ? 
+2 3 2 2 1 
+? ? 1 0 0 
+
+Has ganado
+Veces perdidas: 1
+Terminado en 3.0 segundos
+Partida terminada tras 10 intentos
+
+Tamano del tablero: Filas = 5 ; Columnas = 5 ; Minas = 7
+
+Numero de derrotas: [4, 1, 1, 2, 1, 5, 0, 13, 5, 1]
+
+Tiempo : [18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0, 18.0, 19.0, 2.0, 1.0, 6.0, 11.0, 2.0, 9.0, 25.0, 3.0] segundos
+
